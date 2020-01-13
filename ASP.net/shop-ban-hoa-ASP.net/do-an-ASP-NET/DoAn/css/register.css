@@ -1,0 +1,181 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css");
+
+img {
+  max-width: 80%;
+  height: 80%;
+}
+
+.container-register {
+  height: 150vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('../images/bg-login.jpg');
+  background-size: cover;
+  background-position: center;
+  opacity: .75;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  height: 105vh;
+  color:#949292;
+  background: white;
+  border-radius: 8px;
+  border: 3px solid #EBD1D1;
+}
+
+.content-left {
+  width: 55%;
+  height: 100%;
+  position: relative;
+  border-right: 3px solid #EBD1D1;
+  overflow: hidden;
+}
+
+.content-left .intro {
+  z-index: 3;
+  position: absolute;
+  padding: 10px 45px;
+}
+
+.content-left .intro h2 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 400;
+  margin-top: 15px;
+}
+
+.content-left .intro span {
+  font-size: 15px;
+  color: black;
+}
+
+.content-left .image-overplay {
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.623);
+  position: absolute;
+  z-index: 2
+}
+
+.content-left img {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 1
+}
+
+.content-right {
+  width: 45%;
+  height: 100%;
+  padding: 10px 45px;
+  margin-left: 15px;
+}
+
+.content-right h3 {
+  text-align: center;
+  font-weight: 600px;
+  font-size: 30px;
+  margin-top: 15px;
+  color: #F48FB1;
+  text-shadow: 4px 4px 6px rgba(255, 255, 255, .5);
+}
+
+.content-right .input-group {
+  position: relative;
+  margin-top: 12px;
+  margin-bottom: 18px;
+}
+
+.content-right .input-group label {
+  font-weight: 300;
+  position: absolute;
+  left: 0;
+  top: -4px;
+  pointer-events: none;
+  font-size: 18px;
+  transition: all .4s;
+}
+
+.content-right .input-group input {
+  border: none;
+  border-bottom: 2px solid rgb(207, 206, 206);
+  width: 100%;
+  outline: none;
+}
+
+.content-right .input-group input:focus ~ label, .content-right .input-group input:valid ~ label {
+  font-size: 14px;
+  top: -15px;
+}
+
+.content-right .input-group-sex {
+  font-weight: 300;
+  font-size: 18px;
+  display: flex;
+  align-content: center;
+}
+
+.content-right .input-group-sex input[type="radio"] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 2px solid rgb(204, 202, 202);
+  width: 25px;
+  height: 25px;
+  margin-left: 8px;
+  margin-right: 8px;
+  outline: none;
+  position: relative;
+}
+
+.content-right .input-group-sex input[type="radio"]:before {
+  content: "\f00c";
+  font-family: "fontAwesome";
+  position: absolute;
+  font-size: 20px;
+  top: -6px;
+  color: rgb(204, 202, 202);
+  opacity: 0;
+  transition: all .2s ease-out;
+}
+
+.content-right .input-group-sex input[type="radio"]:checked:before {
+  opacity: 1;
+}
+
+.content-right input[type='submit'] {
+  margin-top: 12px;
+  width: 100%;
+  height: 48px;
+  border: none;
+  border-radius: 6px;
+  outline: none;
+  color: white;
+  background-image: linear-gradient(to left, #f48fb1, #f3799f, #f1618c, #ee4678, #e91e63);
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.content-right .social p {
+  margin-top: 15px;
+  font-size: 18px;
+}
+
+.content-right .social i {
+  font-size: 35px;
+  margin-top: -30px;
+  margin-right: 10px;
+}
+
+i.facebook {
+  color: #3b5998;
+}
+
+i.twitter {
+  color: #55acee
+}

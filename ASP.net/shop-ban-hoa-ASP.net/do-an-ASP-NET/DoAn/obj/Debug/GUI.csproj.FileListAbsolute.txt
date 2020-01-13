@@ -1,0 +1,74 @@
+C:\Users\SV\Desktop\flowershop\do-an-ASP-NET\DoAn\bin\DoAn.dll.config
+C:\Users\SV\Desktop\flowershop\do-an-ASP-NET\DoAn\bin\DoAn.dll
+C:\Users\SV\Desktop\flowershop\do-an-ASP-NET\DoAn\bin\DoAn.pdb
+C:\Users\SV\Desktop\flowershop\do-an-ASP-NET\DoAn\bin\BUS.dll
+C:\Users\SV\Desktop\flowershop\do-an-ASP-NET\DoAn\bin\DTO.dll
+C:\Users\SV\Desktop\flowershop\do-an-ASP-NET\DoAn\bin\DAO.dll
+C:\Users\SV\Desktop\flowershop\do-an-ASP-NET\DoAn\bin\BUS.pdb
+C:\Users\SV\Desktop\flowershop\do-an-ASP-NET\DoAn\bin\DTO.pdb
+C:\Users\SV\Desktop\flowershop\do-an-ASP-NET\DoAn\bin\DAO.pdb
+C:\Users\SV\Desktop\flowershop\do-an-ASP-NET\DoAn\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\SV\Desktop\flowershop\do-an-ASP-NET\DoAn\obj\Debug\DoAn.dll
+C:\Users\SV\Desktop\flowershop\do-an-ASP-NET\DoAn\obj\Debug\DoAn.pdb
+C:\Users\ThanhAnh\Desktop\lambai\flowershop\do-an-ASP-NET\DoAn\bin\DoAn.dll.config
+C:\Users\ThanhAnh\Desktop\lambai\flowershop\do-an-ASP-NET\DoAn\bin\DoAn.dll
+C:\Users\ThanhAnh\Desktop\lambai\flowershop\do-an-ASP-NET\DoAn\bin\DoAn.pdb
+C:\Users\ThanhAnh\Desktop\lambai\flowershop\do-an-ASP-NET\DoAn\bin\BUS.dll
+C:\Users\ThanhAnh\Desktop\lambai\flowershop\do-an-ASP-NET\DoAn\bin\DTO.dll
+C:\Users\ThanhAnh\Desktop\lambai\flowershop\do-an-ASP-NET\DoAn\bin\DAO.dll
+C:\Users\ThanhAnh\Desktop\lambai\flowershop\do-an-ASP-NET\DoAn\bin\BUS.pdb
+C:\Users\ThanhAnh\Desktop\lambai\flowershop\do-an-ASP-NET\DoAn\bin\DTO.pdb
+C:\Users\ThanhAnh\Desktop\lambai\flowershop\do-an-ASP-NET\DoAn\bin\DAO.pdb
+C:\Users\ThanhAnh\Desktop\lambai\flowershop\do-an-ASP-NET\DoAn\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\ThanhAnh\Desktop\lambai\flowershop\do-an-ASP-NET\DoAn\obj\Debug\DoAn.dll
+C:\Users\ThanhAnh\Desktop\lambai\flowershop\do-an-ASP-NET\DoAn\obj\Debug\DoAn.pdb
+C:\Jackliang\flowershop\do-an-ASP-NET\DoAn\bin\DoAn.dll.config
+C:\Jackliang\flowershop\do-an-ASP-NET\DoAn\bin\DoAn.dll
+C:\Jackliang\flowershop\do-an-ASP-NET\DoAn\bin\DoAn.pdb
+C:\Jackliang\flowershop\do-an-ASP-NET\DoAn\bin\BUS.dll
+C:\Jackliang\flowershop\do-an-ASP-NET\DoAn\bin\DTO.dll
+C:\Jackliang\flowershop\do-an-ASP-NET\DoAn\bin\DAO.dll
+C:\Jackliang\flowershop\do-an-ASP-NET\DoAn\bin\BUS.pdb
+C:\Jackliang\flowershop\do-an-ASP-NET\DoAn\bin\DTO.pdb
+C:\Jackliang\flowershop\do-an-ASP-NET\DoAn\bin\DAO.pdb
+C:\Jackliang\flowershop\do-an-ASP-NET\DoAn\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Jackliang\flowershop\do-an-ASP-NET\DoAn\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Jackliang\flowershop\do-an-ASP-NET\DoAn\obj\Debug\GUI.csproj.CopyComplete
+C:\Jackliang\flowershop\do-an-ASP-NET\DoAn\obj\Debug\DoAn.dll
+C:\Jackliang\flowershop\do-an-ASP-NET\DoAn\obj\Debug\DoAn.pdb
+C:\Users\Nhat Huy\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\DoAn.dll.config
+C:\Users\Nhat Huy\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\DoAn.dll
+C:\Users\Nhat Huy\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\DoAn.pdb
+C:\Users\Nhat Huy\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\BUS.dll
+C:\Users\Nhat Huy\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\DTO.dll
+C:\Users\Nhat Huy\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\DAO.dll
+C:\Users\Nhat Huy\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\BUS.pdb
+C:\Users\Nhat Huy\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\DTO.pdb
+C:\Users\Nhat Huy\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\DAO.pdb
+C:\Users\Nhat Huy\Desktop\flowershop-master\do-an-ASP-NET\DoAn\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Nhat Huy\Desktop\flowershop-master\do-an-ASP-NET\DoAn\obj\Debug\DoAn.dll
+C:\Users\Nhat Huy\Desktop\flowershop-master\do-an-ASP-NET\DoAn\obj\Debug\DoAn.pdb
+C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\DoAn.dll.config
+C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\DoAn.dll
+C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\DoAn.pdb
+C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\BUS.dll
+C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\DTO.dll
+C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\DAO.dll
+C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\BUS.pdb
+C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\DTO.pdb
+C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\DoAn\bin\DAO.pdb
+C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\DoAn\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\DoAn\obj\Debug\DoAn.dll
+C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\DoAn\obj\Debug\DoAn.pdb
+E:\github\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\DoAn.dll.config
+E:\github\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\DoAn.dll
+E:\github\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\DoAn.pdb
+E:\github\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\BUS.dll
+E:\github\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\DTO.dll
+E:\github\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\DAO.dll
+E:\github\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\BUS.pdb
+E:\github\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\DTO.pdb
+E:\github\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\DAO.pdb
+E:\github\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\github\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\obj\Debug\DoAn.dll
+E:\github\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\obj\Debug\DoAn.pdb

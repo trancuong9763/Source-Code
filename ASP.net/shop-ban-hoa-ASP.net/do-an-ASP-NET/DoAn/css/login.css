@@ -1,0 +1,123 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css");
+
+.container-login {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('../images/bg-login.jpg');
+  background-size: cover;
+  background-position: center;
+  opacity: .75;
+}
+
+.container-login .form-login {
+  background: white;
+  width: 540px;
+  height: 374px;
+  border-top: 14px solid #FF7AA7;
+  border-radius: 8px;
+  padding: 1rem 6rem;
+  position: relative;
+}
+
+.form-login h3 {
+  text-align: center;
+  font-size: 30px;
+  color: #F48FB1;
+  font-weight: 600;
+  text-shadow: 4px 4px 6px rgba(255, 255, 255, .5);
+}
+
+.form-login input[type="submit" ] {
+  margin-top: 12px;
+  width: 100%;
+  height: 48px;
+  border: none;
+  border-radius: 6px;
+  outline: none;
+  color: white;
+  background-image: linear-gradient(to left, #f48fb1, #f3799f, #f1618c, #ee4678, #e91e63);
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.form-login .input-group {
+  position: relative;
+  margin-top: 12px;
+}
+
+.form-login .input-group.mt {
+  margin-top: 28px;
+  margin-bottom: 20px;
+}
+
+.form-login .input-group label {
+  position: absolute;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+  font-size: 18px;
+  transition: all .4s;
+}
+
+.form-login .input-group input {
+  border: none;
+  border-bottom: 2px solid #bbb;
+  width: 100%;
+  outline: none;
+}
+
+.form-login .input-group input:focus ~ label, .form-login .input-group input:valid ~ label {
+  font-size: 14px;
+  top: -15px;
+}
+
+.form-login .remember-password {
+  margin-top: 10px;
+  display: flex;
+  align-content: center;
+}
+
+.form-login .remember-password input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 2px solid #bbb;
+  height: 25px;
+  width: 25px;
+  outline: none;
+  position: relative;
+}
+
+.form-login .remember-password input:before {
+  content: "\f00c";
+  font-family: "fontAwesome";
+  position: absolute;
+  font-size: 20px;
+  top: -6px;
+  color: rgb(204, 202, 202);
+  opacity: 0;
+  transition: all .2s ease-out;
+}
+
+.form-login .remember-password input:checked:before {
+  opacity: 1;
+}
+
+.form-login .remember-password label {
+  margin-left: 5px;
+}
+
+.form-login .forgot-password a {
+  position: absolute;
+  right: 94px;
+  color: rgba(143, 143, 143, 0.933);
+  font-style: italic;
+  transition: all .2s;
+}
+
+.form-login .forgot-password a:hover {
+  color: rgba(99, 97, 97, 0.933);
+  text-decoration: underline;
+}
