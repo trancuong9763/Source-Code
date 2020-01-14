@@ -30,7 +30,16 @@
                         <div class="col-md-6 col-lg-3 ftco-animate">
     				        <div class="product">
     					        <a href="#" class="img-prod">
-                                    <asp:Image ID="Image1" runat="server" ImageUrl='<%# "images/products/" + Eval("AnhMinhHoa") %>'/>
+                                    <asp:HyperLink
+                                    NavigateUrl='<%# "/chi-tiet-san-pham.aspx?mahoa=" + Eval("MaHoa") %>' 
+                                    runat="server"
+                                    CssClass="img-prod" >
+
+
+                                         <asp:Image ID="Image1" runat="server" ImageUrl='<%# "images/products/" + Eval("AnhMinhHoa") %>'/>
+
+                                    </asp:HyperLink>
+                                   
     						        <span class="status">30%</span>
     						        <div class="overlay"></div>
     					        </a>
