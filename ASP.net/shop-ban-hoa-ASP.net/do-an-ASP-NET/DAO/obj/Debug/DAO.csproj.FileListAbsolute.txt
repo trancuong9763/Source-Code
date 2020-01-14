@@ -49,3 +49,10 @@ C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\DAO\bin\Debug\DAO.dll
 C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\DAO\bin\Debug\DAO.pdb
 C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\DAO\bin\Debug\DTO.dll
 C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\DAO\bin\Debug\DTO.pdb
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DAO\bin\Debug\DAO.dll
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DAO\bin\Debug\DAO.pdb
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DAO\bin\Debug\DTO.dll
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DAO\bin\Debug\DTO.pdb
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DAO\obj\Debug\DAO.dll
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DAO\obj\Debug\DAO.pdb

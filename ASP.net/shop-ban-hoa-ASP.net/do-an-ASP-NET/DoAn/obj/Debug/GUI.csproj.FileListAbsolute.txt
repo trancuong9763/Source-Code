@@ -72,3 +72,15 @@ E:\github\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\DAO.pdb
 E:\github\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\obj\Debug\GUI.csprojResolveAssemblyReference.cache
 E:\github\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\obj\Debug\DoAn.dll
 E:\github\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\obj\Debug\DoAn.pdb
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\DoAn.dll.config
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\DoAn.dll
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\DoAn.pdb
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\BUS.dll
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\DTO.dll
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\DAO.dll
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\BUS.pdb
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\DTO.pdb
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\bin\DAO.pdb
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\obj\Debug\DoAn.dll
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\DoAn\obj\Debug\DoAn.pdb

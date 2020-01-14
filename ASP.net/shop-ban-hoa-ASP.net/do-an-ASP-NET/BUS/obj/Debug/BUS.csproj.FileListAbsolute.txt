@@ -63,3 +63,12 @@ C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\BUS\bin\Debug\DTO.pdb
 C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
 C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\BUS\obj\Debug\BUS.dll
 C:\Users\asus\Desktop\flowershop-master\do-an-ASP-NET\BUS\obj\Debug\BUS.pdb
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\BUS\bin\Debug\BUS.dll
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\BUS\bin\Debug\BUS.pdb
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\BUS\bin\Debug\DAO.dll
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\BUS\bin\Debug\DTO.dll
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\BUS\bin\Debug\DAO.pdb
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\BUS\bin\Debug\DTO.pdb
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\BUS\obj\Debug\BUS.dll
+E:\Source-Code\ASP.net\shop-ban-hoa-ASP.net\do-an-ASP-NET\BUS\obj\Debug\BUS.pdb
